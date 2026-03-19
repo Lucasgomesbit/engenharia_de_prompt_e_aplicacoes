@@ -1,1 +1,1 @@
-# engenharia_de_prompt_fundamentos
+# engenharia_de_prompt_aplicações
