@@ -1,7 +1,14 @@
+Atividade – Prompt Mestre em Programação de Computadores 
+
+Tema: Listas e Análise de Dados 
+
+Prompt Mestre Inicial 
+
+"Escreva um programa em Python que receba uma lista de números e calcule a média dos valores." 
+
 Variação 1 
 
-"Escreva o programa em Python e explique passo a passo como funciona." 
-Resposta do LLM: 
+"Escreva o programa em Python e explique passo a passo como funciona."  
 
 numeros = [10, 20, 30, 40, 50] 
  
